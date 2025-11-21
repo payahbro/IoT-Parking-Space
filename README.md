@@ -1,0 +1,3 @@
+This is an IoT project to detect vehicle parking spaces. There are two main sensors used, namely an ultrasonic sensor to detect and measure the distance of objects in front, and an LDR sensor to detect light. There are three LEDs in red, yellow, and green that are used to indicate the current status.
+
+If it is nighttime, the yellow LED lights up, indicating that the parking space is closed. If it is daytime and there is a vehicle in the parking space, the red LED lights up, indicating that the parking space is occupied by another vehicle. If it is daytime and there is no vehicle in the parking space, the green LED lights up, indicating that the parking space is still available and can be occupied.
